@@ -12,7 +12,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 # ─── 🔑 PUT YOUR KEY HERE ────────────────────────────────────────────────────
 # Get a free key at: https://aistudio.google.com
-GOOGLE_API_KEY = "AIzaSyChq4GAKp0zDdLdUc29enWSC3MNW2suw9k"
+GOOGLE_API_KEY = "PASTE-YOUR-KEY-HERE"
 
 # ─── LLM ─────────────────────────────────────────────────────────────────────
 llm = ChatGoogleGenerativeAI(
