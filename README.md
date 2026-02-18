@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 # 2. Add your API key in config/settings.py
 #    Get a free key at: https://aistudio.google.com
-GOOGLE_API_KEY = "AIzaSyChq4GAKp0zDdLdUc29enWSC3MNW2suw9k"
+GOOGLE_API_KEY = "Paste-Your-API-KEY"
 ```
 
 ---
